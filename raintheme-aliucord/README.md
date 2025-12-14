@@ -1,7 +1,6 @@
 # rain
 
-Fully-fledged theme made for rain (Aliucord version)! 
-you know I had to make it for Aliucord... :)
+Fully-fledged theme made for rain (Aliucord version)!
 
 
 # Preview
