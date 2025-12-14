@@ -7,6 +7,9 @@ Fully-fledged theme made for rain (will be built-in)!
 > Moodle, for helping me make my theme what it is (finding a ton of keys missing in my theme and much more).
 
 
+Check out our website at https://raincord.dev<br>
+Kettu/rain server: https://discord.gg/qkdPGunwjW
+
 # Preview
 <img width="4000" height="2250" alt="image" src="https://github.com/user-attachments/assets/0642b03c-9795-4ca3-8577-b73d7f12c12a" />
 
