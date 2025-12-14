@@ -1,17 +1,15 @@
-# Pyoncord-Theme
+# Rain
 
-Fully-fledged theme made for Pyoncord (themes+ support, custom fonts soon)! 
+Fully-fledged theme made for rain (will be built-in)! 
 - Supports the most recent versions of discord! Also works with some older versions and the youbar (which was removed in 226.6)
-- This is my first new ui theme, but thanks to the help of some amazing people it became even better! (Thank you).
-
 
 > Credit goes to: <br>
-> Rairof, for helping me make my theme what it is (finding a ton of keys missing in my theme and much more). <br>
-> Moodle, for the current background.
+> Moodle, for helping me make my theme what it is (finding a ton of keys missing in my theme and much more).
 
 
 # Preview
-![blossomed](https://github.com/rennpy/pyontheme/assets/158360149/912edfae-c7aa-41b2-81c4-6359261f3a2a)
+![rain](<img width="4000" height="2250" alt="image" src="https://github.com/user-attachments/assets/0642b03c-9795-4ca3-8577-b73d7f12c12a" />)
+)
 
 
 
