@@ -9,7 +9,6 @@ Fully-fledged theme made for rain (will be built-in)!
 
 # Preview
 ![rain](<img width="4000" height="2250" alt="image" src="https://github.com/user-attachments/assets/0642b03c-9795-4ca3-8577-b73d7f12c12a" />)
-)
 
 
 
