@@ -2,8 +2,8 @@
     "manifest": {
         "version": "1.0",
         "author": "lampdelivery",
-        "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/DraculaDark\/main\/DraculaAfternoon.json",
-        "name": "raincord"
+        "name": "raincord",
+        "updater": "https:\/\/github.com\/LampDelivery\/raincord\/blob\/main\/raintheme-aliucord\/rain.json"
     },
     "background": {},
     "fonts": {
