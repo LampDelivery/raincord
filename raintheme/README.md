@@ -1,4 +1,4 @@
-# Rain
+# rain
 
 Fully-fledged theme made for rain (will be built-in)! 
 - Supports the most recent versions of discord! Also works with some older versions and the youbar (which was removed in 226.6)
